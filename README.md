@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/huỳnh ngọc phat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh ngọc phat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phat.huynhngoc.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh ngọc phat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
