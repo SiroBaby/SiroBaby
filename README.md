@@ -47,4 +47,4 @@
 ---
 
 ## 🐍 Snake Contribution Animation
-![Snake animation](https://github.com/SiroBaby/SiroBaby/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SiroBaby/SiroBaby/blob/output/snake.svg)
