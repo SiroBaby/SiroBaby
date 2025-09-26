@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Huỳnh Ngọc Phát</h1>
-<h3 align="center">I'm a current student at the Aviation Academy with a passion for web development, particularly in the full-stack space. My goal is to become a Full Stack Web App Developer, specializing in modern technologies like Node.js, Next.js, and React.js. I’m dedicated to building my skills in both front-end and back-end development to create powerful, scalable web applications.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=✨+Huynh+Ngoc+Phat+✨;Backend+Developer;Database+Designer;API+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [doanchuyennganhweb](https://github.com/SiroBaby/doancosonganh)
+---
 
-- 🌱 I’m currently learning **Nextjs, tailwindcss**
+## 👨‍💻 About Me
+- 🎓 Backend Developer | Vietnam Aviation Academy (GPA: **3.24/4.0**)  
+- 🌱 Passionate about **Backend Architecture, Database Design, and Scalable APIs**  
+- 🏆 Excellence Scholarship – Academic Term 3 (2023-2024)  
+- 💡 Always eager to learn new technologies & contribute to impactful projects  
 
-- 👯 My previous project [doancosonganh](https://github.com/SiroBaby/doanchuyennganhweb)
+📫 Reach me at:  
+[![Linkedin Badge](https://img.shields.io/badge/-HuynhNgocPhat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huynhngocphat)  
+[![Gmail Badge](https://img.shields.io/badge/-ngocphat076@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngocphat076@gmail.com)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/SiroBaby](https://github.com/SiroBaby)
+---
 
-- 💬 Ask me about **reactjs, nextjs, nodejs**
+## 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,graphql,nextjs,react,tailwind,postgres,mysql,docker,aws,prisma,git,github)
 
-- 📫 How to reach me **ngocphat076@gmail.com**
+---
 
-- ⚡ Fun fact **I think i'am very happy, helpful and friendly**
+## 📂 Highlight Projects
+- 🛒 **[C2C E-commerce Platform](https://github.com/SiroBaby/doanthuctap)**  
+  🔗 Live Demo: [vaashop.vercel.app](https://vaashop.vercel.app)  
+  Tech Stack: Next.js, Nest.js, GraphQL, Prisma, Clerk, VNPay  
+  → Features: Seller Dashboard, Real-time Chat, Admin Panel, Dark Mode  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/phat.huynhngoc.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh ngọc phat" height="30" width="40" /></a>
-</p>
+- ✈️ **[Travel Tour Booking Website](https://github.com/SiroBaby/doanchuyennganhweb)**  
+  Tech Stack: Node.js, tRPC, Prisma, Next.js, Clerk, VNPay  
+  → Features: Backend APIs, QR Check-in, Admin Panel  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiroBaby&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiroBaby&theme=tokyo-night&hide_border=true)
+
+---
+
+## ✨ Fun Quote
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🐍 Snake Contribution Animation
+![Snake animation](https://github.com/SiroBaby/SiroBaby/blob/output/github-contribution-grid-snake.svg)
