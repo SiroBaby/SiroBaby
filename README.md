@@ -6,12 +6,13 @@
 - 🎓 Backend Developer | Vietnam Aviation Academy (GPA: **3.24/4.0**)  
 - 🌱 Passionate about **Backend Architecture, Database Design, and Scalable APIs**  
 - 🏆 Excellence Scholarship – Academic Term 3 (2023-2024)  
-- 💡 Always eager to learn new technologies & contribute to impactful projects  
+- 💡 Always eager to learn new technologies & contribute to impactful projects
+- 🌐 **Portfolio**: [me.sirobabycloud.io.vn](https://me.sirobabycloud.io.vn)  
 
 📫 Reach me at:  
 [![Linkedin Badge](https://img.shields.io/badge/-HuynhNgocPhat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huynhngocphat)  
 [![Gmail Badge](https://img.shields.io/badge/-ngocphat076@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngocphat076@gmail.com)  
-
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=Google-Chrome&logoColor=white)](https://me.sirobabycloud.io.vn)
 ---
 
 ## 🛠️ Tech Stack
@@ -27,7 +28,9 @@
 
 - ✈️ **[Travel Tour Booking Website](https://github.com/SiroBaby/doanchuyennganhweb)**  
   Tech Stack: Node.js, tRPC, Prisma, Next.js, Clerk, VNPay  
-  → Features: Backend APIs, QR Check-in, Admin Panel  
+  → Features: Backend APIs, QR Check-in, Admin Panel
+
+🔗 **More projects**: [View full portfolio →](https://me.sirobabycloud.io.vn)
 
 ---
 
