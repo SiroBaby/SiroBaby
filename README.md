@@ -1,53 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=✨+Huynh+Ngoc+Phat+✨;Backend+Developer;Database+Designer;API+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=1000&lines=Huynh+Ngoc+Phat;Software+Engineer;Backend+%26+AI+Systems;API+Reliability+Enthusiast)](https://git.io/typing-svg)
 
----
+<p align="center">
+  <a href="https://me.sirobabycloud.io.vn">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/huynhngocphat">LinkedIn</a> ·
+  <a href="mailto:ngocphat076@gmail.com">Email</a>
+</p>
 
-## 👨‍💻 About Me
-- 🎓 Backend Developer | Vietnam Aviation Academy (GPA: **3.24/4.0**)  
-- 🌱 Passionate about **Backend Architecture, Database Design, and Scalable APIs**  
-- 🏆 Excellence Scholarship – Academic Term 3 (2023-2024)  
-- 💡 Always eager to learn new technologies & contribute to impactful projects
-- 🌐 **Portfolio**: [me.sirobabycloud.io.vn](https://me.sirobabycloud.io.vn)  
+## About me
 
-📫 Reach me at:  
-[![Linkedin Badge](https://img.shields.io/badge/-HuynhNgocPhat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huynhngocphat)  
-[![Gmail Badge](https://img.shields.io/badge/-ngocphat076@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngocphat076@gmail.com)  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=Google-Chrome&logoColor=white)](https://me.sirobabycloud.io.vn)
----
+I am a Software Engineer focused on backend development, API design, database performance, and reliable asynchronous workflows.
 
-## 🛠️ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,graphql,nextjs,react,tailwind,postgres,mysql,docker,aws,prisma,git,github)
+- Building production REST APIs with NestJS and Spring Boot.
+- Designing data flows with PostgreSQL, Redis, Prisma, and TypeORM.
+- Exploring AI-assisted learning systems, durable job processing, and observability.
+- Excellence Scholarship recipient, Academic Term 3 (2023-2024).
+- Bachelor of Information Technology, Vietnam Aviation Academy (GPA: **3.24/4.0**).
 
----
+## What I work with
 
-## 📂 Highlight Projects
-- 🛒 **[C2C E-commerce Platform](https://github.com/SiroBaby/doanthuctap)**  
-  🔗 Live Demo: [vaashop.vercel.app](https://vaashop.vercel.app)  
-  Tech Stack: Next.js, Nest.js, GraphQL, Prisma, Clerk, VNPay  
-  → Features: Seller Dashboard, Real-time Chat, Admin Panel, Dark Mode  
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,spring,go,nextjs,react,tailwind,postgres,redis,docker,kubernetes,aws,githubactions,prometheus,grafana,prisma,git)
 
-- ✈️ **[Travel Tour Booking Website](https://github.com/SiroBaby/doanchuyennganhweb)**  
-  Tech Stack: Node.js, tRPC, Prisma, Next.js, Clerk, VNPay  
-  → Features: Backend APIs, QR Check-in, Admin Panel
+## Featured projects
 
-🔗 **More projects**: [View full portfolio →](https://me.sirobabycloud.io.vn)
+### LearningPlatform - AI learning platform
 
----
+[![Source code](https://img.shields.io/badge/source-GitHub-181717?logo=github)](https://github.com/SiroBaby/LearningPlatform)
+[![Live demo](https://img.shields.io/badge/live_demo-Open-86EFAC?logo=googlechrome&logoColor=111827)](https://learningplatform-dev.sirobabycloud.io.vn)
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiroBaby&layout=compact&theme=tokyonight&hide_border=true)
+An engineering-focused MVP that turns PDF and plain-text documents into citation-grounded single-select quizzes through an asynchronous workflow.
 
----
+- **Workflow:** upload, extract, chunk, generate, validate, persist, and serve quizzes.
+- **Architecture:** Next.js learner app, NestJS API and relay runtimes, Go AI worker, PostgreSQL, and S3-compatible object storage.
+- **Reliability:** leases, idempotency keys, bounded retries, transactional outboxes, at-least-once delivery, and aggregate-level validation.
+- **Operations:** Docker/K3s deployment with GitHub Actions, Prometheus, Grafana, Loki, and Alloy.
 
-## 📈 Contribution Graph
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiroBaby&theme=tokyo-night&hide_border=true)
+### VaaShop - C2C e-commerce platform
 
----
+[![Source code](https://img.shields.io/badge/source-GitHub-181717?logo=github)](https://github.com/SiroBaby/VaaShop)
+[![Live demo](https://img.shields.io/badge/live_demo-Open-0EA5E9?logo=googlechrome&logoColor=white)](https://vaashop.vercel.app)
 
-## ✨ Fun Quote
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+An e-commerce platform with product, cart, order, payment, and administration workflows.
 
----
+- REST and GraphQL APIs with NestJS, Prisma, and PostgreSQL.
+- VNPay payment callback verification and checkout flows.
+- Next.js frontend with a seller dashboard and admin management tools.
 
-## 🐍 Snake Contribution Animation
-![Snake animation](https://github.com/SiroBaby/SiroBaby/blob/output/snake.svg)
+More project details and my resume are available on the [portfolio](https://me.sirobabycloud.io.vn).
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=SiroBaby&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SiroBaby&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiroBaby&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## Fun quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+</p>
+
+## Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SiroBaby/SiroBaby/output/snake.svg" alt="Snake animation of GitHub contributions" />
+</p>
+
+The snake image is generated daily by [`.github/workflows/snake.yml`](https://github.com/SiroBaby/SiroBaby/blob/main/.github/workflows/snake.yml) and published to the `output` branch.
+
+## Contact
+
+- Portfolio: [me.sirobabycloud.io.vn](https://me.sirobabycloud.io.vn)
+- LinkedIn: [linkedin.com/in/huynhngocphat](https://www.linkedin.com/in/huynhngocphat)
+- Email: [ngocphat076@gmail.com](mailto:ngocphat076@gmail.com)
